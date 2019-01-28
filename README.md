@@ -19,4 +19,4 @@ Data available for modeling includes the monthly data from January 1987 to Decem
 
 ## Deliverable 
 
-The [report](https://github.com/Sarah-Zhang/Bankruptcy_Rate_Forecasting/blob/master/Report.pdf) summarized the feature selection and modeling process and our conclusions.
+The [report](https://github.com/Sarah-Zhang/Bankruptcy_Rate_Forecasting/blob/master/Time%20Series%20Project.pdf) summarized the feature selection and modeling process and our conclusions.
